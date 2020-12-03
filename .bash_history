@@ -388,3 +388,53 @@ ls
 shutdown
 sudo shutdown
 exit
+touch sandeep
+vi sandeep
+git init
+git add .
+git add sandeep
+git status 
+git commit -m "added file sandeep"
+git log
+git -r
+git push origin master
+mvn --version
+mvn -version
+mvn --help
+git log
+git -rm*
+git tree
+mk tree
+man ls
+touch sandeep.txt
+vi sandeep 
+cat sandeep
+tac sandeep
+cal
+year
+cat >> sandeep
+cat sandeep
+vi sandeep
+tac sandeep
+pwd
+git log
+git init 
+git push origin master
+man ls
+head
+vi sandeep 
+sudo yum update
+c;mkdir second
+pwd
+mkdir second
+cd secondpwd
+ls
+mkdir third
+cd thirdsaas
+ls
+cd third/
+ls -ltr
+vi sample.txt
+ls
+cd third/
+vi sample.txt
