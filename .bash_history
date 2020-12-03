@@ -464,3 +464,70 @@ vi ravi.txt
 git status
 git add .
 git commit -m "adding ravi" -a
+ls
+cd ravichandra/
+git status
+git add .
+git stattus
+git status 
+git commit -m "adding ravi file" -a
+git push origin master
+vi third 
+git add .
+git push origin master 
+ssh-keygen
+git remote -v
+cd third/
+git remote -v
+git remote add origin https://github.com/ssh1228/third.git
+git push origin master
+ssh1228
+ssh-keygen
+cd /home/ec2-user/.ssh/id_rsa.
+cd third/
+ssh-keygen
+cd/home/ec2-user/.ssh/
+cd /home/ec2-user/.ssh/
+ls -ltr
+cat id_rsa.pub
+cd third/
+ssh-keygen 
+cd third/
+vi san.txt
+git add .
+git commit - m "adding third line " san.txt
+git commit -m "adding third line " san.txt
+git push origin master
+git pull origin master
+vi san.txt
+git add .
+git commit -m "conflict resolved"
+git push origin master 
+cd third/
+ssh-keygen
+cd /home/ec2-user/.ssh/
+ls -ltr
+cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC4xxwliSlXYqnuDK3BtwE5qw/irBEdYMPFSIiD3lwEoozuTbCE5zazVcWXIutBXzO+mm1eM39AgX
+aeYAHjD6WMB+DuM3keC30Zs7m/C9nK1n2N095HJ74vHRSNb/KztfcGbOoXdJCQbOhAQy0CTWKVkxKVRAunK74SdsI5cJ2dVmC4+SHqwSwQj5wWAEwp
+FtHI+KBhEDm3Gd7yYpUk3U77gNt9VQd5Pj8S31HvCEsH3LsRY7KDKCeNd+aq5Wi0lD0L4hq1GXKYS7d/lS9M22Uf6wcwB3ZjfmR0tU0ut2aJeomgmS
+lE3SsGs9SAh7B1ZZ1V9YORaD9F0uGVgqOjOVYZ ec2-user@ip-172-31-43-85.us-east-2.compute.internal
+clear
+cd
+cd third/
+vi sts.txt
+git add .
+git commit -m "adding sts file"
+git push origin master
+git remote -v
+git remote set-url origin git@github.com:ssh1228/third.git
+git remote -v
+vi san.txt
+git add .
+git commit -m "adding san file"
+git push origin master
+git branch
+vi san.txt
+git add .
+git commit -m "adding san.txt second line"san.txt
+git push origin master 
