@@ -1,3 +1,4 @@
-this is san file 
-this is dan file
-this is kan file 
+this is san file
+this is dam file
+this is ram file 
+this is  kan file 
