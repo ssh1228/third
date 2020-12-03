@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1606986347,,"wq"
+|2,0,1606991404,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -34,34 +34,42 @@
 |3,1,36,0,1,0,1598976678,"A"
 
 # File marks:
-'0  1  31  ~/sample.txt
-|4,48,1,31,1606986347,"~/sample.txt"
-'1  1  30  ~/third/sample.txt
-|4,49,1,30,1606986002,"~/third/sample.txt"
-'2  2  0  ~/third/[Command Line]
-|4,50,2,0,1606985831,"~/third/[Command Line]"
-'3  18  78  ~/sandeep
-|4,51,18,78,1598976728,"~/sandeep"
-'4  5  0  ~/sandeep
-|4,52,5,0,1595951335,"~/sandeep"
-'5  4  0  ~/sandeep
-|4,53,4,0,1595951335,"~/sandeep"
-'6  4  13  ~/sandeep
-|4,54,4,13,1595951097,"~/sandeep"
+'0  1  12  ~/ravichandra/ravi.txt
+|4,48,1,12,1606991404,"~/ravichandra/ravi.txt"
+'1  1  31  ~/sample.txt
+|4,49,1,31,1606986347,"~/sample.txt"
+'2  1  30  ~/third/sample.txt
+|4,50,1,30,1606986002,"~/third/sample.txt"
+'3  2  0  ~/third/[Command Line]
+|4,51,2,0,1606985831,"~/third/[Command Line]"
+'4  18  78  ~/sandeep
+|4,52,18,78,1598976728,"~/sandeep"
+'5  5  0  ~/sandeep
+|4,53,5,0,1595951335,"~/sandeep"
+'6  4  0  ~/sandeep
+|4,54,4,0,1595951335,"~/sandeep"
 '7  4  13  ~/sandeep
 |4,55,4,13,1595951097,"~/sandeep"
-'8  3  13  ~/sandeep
-|4,56,3,13,1595951097,"~/sandeep"
+'8  4  13  ~/sandeep
+|4,56,4,13,1595951097,"~/sandeep"
 '9  3  13  ~/sandeep
 |4,57,3,13,1595951097,"~/sandeep"
 
 # Jumplist (newest first):
+-'  1  12  ~/ravichandra/ravi.txt
+|4,39,1,12,1606991404,"~/ravichandra/ravi.txt"
+-'  1  31  ~/sample.txt
+|4,39,1,31,1606986347,"~/sample.txt"
 -'  1  31  ~/sample.txt
 |4,39,1,31,1606986347,"~/sample.txt"
 -'  1  30  ~/third/sample.txt
 |4,39,1,30,1606986002,"~/third/sample.txt"
 -'  1  30  ~/third/sample.txt
 |4,39,1,30,1606986002,"~/third/sample.txt"
+-'  1  30  ~/third/sample.txt
+|4,39,1,30,1606986002,"~/third/sample.txt"
+-'  1  30  ~/third/sample.txt
+|4,39,1,30,1606986002,"~/third/sample.txt"
 -'  2  0  ~/third/[Command Line]
 |4,39,2,0,1606985831,"~/third/[Command Line]"
 -'  2  0  ~/third/[Command Line]
@@ -70,6 +78,18 @@
 |4,39,2,0,1606985831,"~/third/[Command Line]"
 -'  2  0  ~/third/[Command Line]
 |4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  1  0  ~/third/sample.txt
+|4,39,1,0,1606985550,"~/third/sample.txt"
+-'  1  0  ~/third/sample.txt
+|4,39,1,0,1606985550,"~/third/sample.txt"
 -'  1  0  ~/third/sample.txt
 |4,39,1,0,1606985550,"~/third/sample.txt"
 -'  1  0  ~/third/sample.txt
@@ -90,6 +110,22 @@
 |4,39,18,78,1598976728,"~/sandeep"
 -'  18  78  ~/sandeep
 |4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
 -'  5  0  ~/sandeep
 |4,39,5,0,1598976574,"~/sandeep"
 -'  5  0  ~/sandeep
@@ -106,6 +142,38 @@
 |4,39,5,0,1598976574,"~/sandeep"
 -'  5  0  ~/sandeep
 |4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
 -'  4  0  ~/sandeep
 |4,39,4,0,1595951335,"~/sandeep"
 -'  4  0  ~/sandeep
@@ -154,110 +222,49 @@
 |4,39,4,13,1595951296,"~/sandeep"
 -'  3  13  ~/sandeep
 |4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
 -'  3  13  ~/sandeep
 |4,39,3,13,1595951097,"~/sandeep"
--'  3  13  ~/sandeep
-|4,39,3,13,1595951097,"~/sandeep"
--'  3  13  ~/sandeep
-|4,39,3,13,1595951097,"~/sandeep"
--'  3  13  ~/sandeep
-|4,39,3,13,1595951097,"~/sandeep"
--'  3  13  ~/sandeep
-|4,39,3,13,1595951097,"~/sandeep"
--'  3  13  ~/sandeep
-|4,39,3,13,1595951097,"~/sandeep"
--'  3  13  ~/sandeep
-|4,39,3,13,1595951097,"~/sandeep"
--'  3  13  ~/sandeep
-|4,39,3,13,1595951097,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595951069,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595519964,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595519964,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595519964,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595519964,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595519964,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595519964,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595519964,"~/sandeep"
--'  2  10  ~/sandeep
-|4,39,2,10,1595519964,"~/sandeep"
--'  1  0  ~/sandeep
-|4,39,1,0,1595519935,"~/sandeep"
--'  1  0  ~/sandeep
-|4,39,1,0,1595519935,"~/sandeep"
--'  1  0  ~/sandeep
-|4,39,1,0,1595519935,"~/sandeep"
--'  1  0  ~/sandeep
-|4,39,1,0,1595519935,"~/sandeep"
--'  1  0  ~/sandeep
-|4,39,1,0,1595519935,"~/sandeep"
--'  1  0  ~/sandeep
-|4,39,1,0,1595519935,"~/sandeep"
--'  1  0  ~/sandeep
-|4,39,1,0,1595519935,"~/sandeep"
--'  1  0  ~/sandeep
-|4,39,1,0,1595519935,"~/sandeep"
--'  1  0  ~/sandeep
-|4,39,1,0,1595519935,"~/sandeep"
--'  1  0  ~/sandeep
-|4,39,1,0,1595519935,"~/sandeep"
--'  1  0  ~/sandeep
-|4,39,1,0,1595519935,"~/sandeep"
 
 # History of marks within files (newest to oldest):
+
+> ~/ravichandra/ravi.txt
+	*	1606991396	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
 
 > ~/sample.txt
 	*	1606986337	0

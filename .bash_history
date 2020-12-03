@@ -438,3 +438,22 @@ vi sample.txt
 ls
 cd third/
 vi sample.txt
+ls -ltr
+git init
+ls -ltra
+git status
+git add .
+git status 
+cd third/
+git status
+git commit -m "adding sample file" -a
+git push origin master
+git --config --edit
+git --version
+git log
+git config --global --edit
+cd third/
+git remote -v
+git push origin master 
+git remote -v
+git push origin master
