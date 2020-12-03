@@ -457,3 +457,10 @@ git remote -v
 git push origin master 
 git remote -v
 git push origin master
+mkdir ravichandra 
+ls
+cd ravichandra/
+vi ravi.txt
+git status
+git add .
+git commit -m "adding ravi" -a
