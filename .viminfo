@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1607039229,,"wq"
+|2,0,1606991404,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -34,267 +34,230 @@
 |3,1,36,0,1,0,1598976678,"A"
 
 # File marks:
-'0  1  13  ~/feature.txt
-|4,48,1,13,1607039229,"~/feature.txt"
-'1  4  0  ~/third/san.txt
-|4,49,4,0,1607017338,"~/third/san.txt"
-'2  1  44  ~/third/san.txt
-|4,50,1,44,1607016856,"~/third/san.txt"
-'3  3  15  ~/third/san.txt
-|4,51,3,15,1607016856,"~/third/san.txt"
-'4  1  33  ~/third/san.txt
-|4,52,1,33,1607014002,"~/third/san.txt"
-'5  1  33  ~/third/san.txt
-|4,53,1,33,1607014002,"~/third/san.txt"
-'6  2  16  ~/third/san.txt
-|4,54,2,16,1607014002,"~/third/san.txt"
-'7  2  16  ~/third/san.txt
-|4,55,2,16,1607014002,"~/third/san.txt"
-'8  1  16  ~/third/san.txt
-|4,56,1,16,1607013609,"~/third/san.txt"
-'9  1  16  ~/third/san.txt
-|4,57,1,16,1607013609,"~/third/san.txt"
+'0  1  12  ~/ravichandra/ravi.txt
+|4,48,1,12,1606991404,"~/ravichandra/ravi.txt"
+'1  1  31  ~/sample.txt
+|4,49,1,31,1606986347,"~/sample.txt"
+'2  1  30  ~/third/sample.txt
+|4,50,1,30,1606986002,"~/third/sample.txt"
+'3  2  0  ~/third/[Command Line]
+|4,51,2,0,1606985831,"~/third/[Command Line]"
+'4  18  78  ~/sandeep
+|4,52,18,78,1598976728,"~/sandeep"
+'5  5  0  ~/sandeep
+|4,53,5,0,1595951335,"~/sandeep"
+'6  4  0  ~/sandeep
+|4,54,4,0,1595951335,"~/sandeep"
+'7  4  13  ~/sandeep
+|4,55,4,13,1595951097,"~/sandeep"
+'8  4  13  ~/sandeep
+|4,56,4,13,1595951097,"~/sandeep"
+'9  3  13  ~/sandeep
+|4,57,3,13,1595951097,"~/sandeep"
 
 # Jumplist (newest first):
--'  1  13  ~/feature.txt
-|4,39,1,13,1607039229,"~/feature.txt"
--'  4  0  ~/third/san.txt
-|4,39,4,0,1607017338,"~/third/san.txt"
--'  4  0  ~/third/san.txt
-|4,39,4,0,1607017338,"~/third/san.txt"
--'  1  44  ~/third/san.txt
-|4,39,1,44,1607016989,"~/third/san.txt"
--'  1  44  ~/third/san.txt
-|4,39,1,44,1607016989,"~/third/san.txt"
--'  3  15  ~/third/san.txt
-|4,39,3,15,1607016856,"~/third/san.txt"
--'  3  15  ~/third/san.txt
-|4,39,3,15,1607016856,"~/third/san.txt"
--'  2  16  ~/third/san.txt
-|4,39,2,16,1607016826,"~/third/san.txt"
--'  2  16  ~/third/san.txt
-|4,39,2,16,1607016826,"~/third/san.txt"
--'  2  16  ~/third/san.txt
-|4,39,2,16,1607014002,"~/third/san.txt"
--'  2  16  ~/third/san.txt
-|4,39,2,16,1607014002,"~/third/san.txt"
--'  1  16  ~/third/san.txt
-|4,39,1,16,1607013968,"~/third/san.txt"
--'  1  16  ~/third/san.txt
-|4,39,1,16,1607013968,"~/third/san.txt"
--'  1  16  ~/third/san.txt
-|4,39,1,16,1607013968,"~/third/san.txt"
--'  1  16  ~/third/san.txt
-|4,39,1,16,1607013968,"~/third/san.txt"
--'  1  16  ~/third/san.txt
-|4,39,1,16,1607013609,"~/third/san.txt"
--'  1  16  ~/third/san.txt
-|4,39,1,16,1607013609,"~/third/san.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  11  ~/third/sts.txt
-|4,39,1,11,1607013277,"~/third/sts.txt"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
--'  1  38  ~/ravichandra/third
-|4,39,1,38,1606991850,"~/ravichandra/third"
+-'  1  12  ~/ravichandra/ravi.txt
+|4,39,1,12,1606991404,"~/ravichandra/ravi.txt"
+-'  1  31  ~/sample.txt
+|4,39,1,31,1606986347,"~/sample.txt"
+-'  1  31  ~/sample.txt
+|4,39,1,31,1606986347,"~/sample.txt"
+-'  1  30  ~/third/sample.txt
+|4,39,1,30,1606986002,"~/third/sample.txt"
+-'  1  30  ~/third/sample.txt
+|4,39,1,30,1606986002,"~/third/sample.txt"
+-'  1  30  ~/third/sample.txt
+|4,39,1,30,1606986002,"~/third/sample.txt"
+-'  1  30  ~/third/sample.txt
+|4,39,1,30,1606986002,"~/third/sample.txt"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  2  0  ~/third/[Command Line]
+|4,39,2,0,1606985831,"~/third/[Command Line]"
+-'  1  0  ~/third/sample.txt
+|4,39,1,0,1606985550,"~/third/sample.txt"
+-'  1  0  ~/third/sample.txt
+|4,39,1,0,1606985550,"~/third/sample.txt"
+-'  1  0  ~/third/sample.txt
+|4,39,1,0,1606985550,"~/third/sample.txt"
+-'  1  0  ~/third/sample.txt
+|4,39,1,0,1606985550,"~/third/sample.txt"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  18  78  ~/sandeep
+|4,39,18,78,1598976728,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  5  0  ~/sandeep
+|4,39,5,0,1598976574,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  0  ~/sandeep
+|4,39,4,0,1595951335,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  4  13  ~/sandeep
+|4,39,4,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951296,"~/sandeep"
+-'  3  13  ~/sandeep
+|4,39,3,13,1595951097,"~/sandeep"
 
 # History of marks within files (newest to oldest):
-
-> ~/feature.txt
-	*	1607039226	0
-	"	1	13
-	^	1	14
-	.	1	13
-	+	1	13
-
-> ~/third/san.txt
-	*	1607017333	0
-	"	4	0
-	^	4	0
-	.	4	0
-	+	1	17
-	+	1	33
-	+	1	44
-	+	1	45
-	+	1	154
-	+	1	45
-	+	1	16
-	+	2	16
-	+	3	17
-	+	4	0
-
-> ~/third/sts.txt
-	*	1607013273	0
-	"	1	11
-	^	1	12
-	.	1	11
-	+	1	11
-
-> ~/ravichandra/third
-	*	1606991846	0
-	"	1	38
-	^	1	39
-	.	1	38
-	+	1	38
 
 > ~/ravichandra/ravi.txt
 	*	1606991396	0
